@@ -28,6 +28,7 @@ Here are some gameplay tips and tricks to help your game go smoothly and effecti
 2. Double-clicking a card will usually get it to where you want it to go. For example, double-clicking a creature will automatically put it in your stack area, and doubleclicking it from there will place it into your battlefield *(the top row of the play area)*, and double-clicking a spell card will put it in the stack area.
 3. To break a shield, **always use the "peek at card face" command on that card before moving it to your hand!** If you don't, you won't know whether that card has a Shield Blast ability or not until it's already in a private zone. Every facedown card is numbered, so make sure you keep track of both your and your opponent's facedown cards.
 4. If you can't figure out how to manipulate the cards to do what you want them to do, explore the rightclick menu on all sorts of objects in the window. It has tons of useful options for interacting with the GUI if you can't remember the keyboard shortcuts.
+5. I realize that the power can't be displayed normally; that's an unfortunate feature of Cockatrice. I've divided the numbers by 100 so that they can still fit on the card, and they work functionally the same way. Just pretend they're the full X000 if you need to.
 
 ## List of Included Sets
 * Quest for the Gauntlet
@@ -54,4 +55,4 @@ Here are some gameplay tips and tricks to help your game go smoothly and effecti
 All provided card images are whatever image appears latest on the Kaijudo Channel database. Likewise, all set info is scraped directly from that source.
 
 #### Disclaimer
-I do not own The Caster Chronicles or contribute to Cockatrice. This is only a text document containing publicly available information. I do not gain anything from this project other than the personal satisfaction that I was able to help spread an awesome game.
+I do not own Kaijudo or contribute to Cockatrice. This is only a text document containing publicly available information. I do not gain anything from this project other than the personal satisfaction that I was able to help spread an awesome game.
