@@ -1,4 +1,4 @@
-# The-Caster-Chronicles
+# Kaijudo for Cockatrice
 
 ## Introduction
 Welcome to Kaijudo on Cockatrice! This repository contains everything you'll need to play [Kaijudo](http://kaijudo.wikia.com/wiki/Trading_Card_Game) on the program [Cockatrice](https://cockatrice.github.io/). Cockatrice is a program developed in C++ and QT5 for playing Magic: the Gathering by 
