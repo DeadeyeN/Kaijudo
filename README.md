@@ -1,0 +1,2 @@
+# Kaijudo
+Kaijudo on Cockatrice
