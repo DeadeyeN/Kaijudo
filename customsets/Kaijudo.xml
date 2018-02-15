@@ -12762,8 +12762,9 @@ Lava Breath - Whenever this creature attacks, banish target enemy creature that 
       <cmc>8</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:
-</text>
+      <text>Choose one: 
+● Put a creature named Queen Kalima from your hand into the battle zone. 
+● Put the top 2 cards of your deck into your discard pile. For each Darkness card put into your discard pile this way, your opponent chooses one of his or her creatures in the battle zone. Banish those creatures.</text>
     </card>
     <card>
       <name>Mark of Tritonus</name>
