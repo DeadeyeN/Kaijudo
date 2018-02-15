@@ -2251,7 +2251,9 @@ Put target enemy creature that has power 3000 or less from the battle zone into 
       <pt>20/20</pt>
       <tablerow>2</tablerow>
       <text>(This card enters your mana zone tapped.)
-Enhanced Instincts - When this creature enters the battle zone, choose one:</text>
+Enhanced Instincts - When this creature enters the battle zone, choose one:
+- Choose one of your creatures. It can't be blocked this turn.
+- One of your other creatures gets +3000 power until the end of the turn.</text>
     </card>
     <card>
       <name>Cyber Lord Corile</name>
@@ -2301,7 +2303,9 @@ Eject - If this creature would be banished, return it to your hand instead.</tex
       <pt>30/30</pt>
       <tablerow>2</tablerow>
       <text>(This card enters your mana zone tapped.)
-Shadow Harvest - When this creature enters the battle zone, choose one:</text>
+Shadow Harvest - When this creature enters the battle zone, choose one:
+- Target enemy creature gets -1000 power until the end of the turn.
+- Put a card from your hand into your mana zone.</text>
     </card>
     <card>
       <name>Dauntless Tusker</name>
@@ -3000,7 +3004,9 @@ Death Lunge - When this creature is banished, target enemy creature gets -1000 p
       <pt>15/15</pt>
       <tablerow>2</tablerow>
       <text>(This card enters your mana zone tapped.)
-Blaster Boots - When this creature enters the battle zone, choose one:</text>
+Blaster Boots - When this creature enters the battle zone, choose one:
+- This creature gets "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+- At the end of the turn, untap one of your creatures.</text>
     </card>
     <card>
       <name>Lightning Sniper</name>
@@ -4724,7 +4730,9 @@ Jade Luster - Each of your other Nature creatures gets +1000 power.</text>
       <pt>25/25</pt>
       <tablerow>2</tablerow>
       <text>(This card enters your mana zone tapped.)
-Ionize - When this creature enters the battle zone, choose one:</text>
+Ionize - When this creature enters the battle zone, choose one:
+- Tap target enemy creature.
+- Return a creature from your discard pile to your hand.</text>
     </card>
     <card>
       <name>Containment Field</name>
@@ -4817,7 +4825,9 @@ Choose one of your creatures in the battle zone and return it to your hand. Then
       <pt>10/10</pt>
       <tablerow>2</tablerow>
       <text>(This card enters your mana zone tapped.)
-Scouting Mission - When this creature enters the battle zone, choose one:</text>
+Scouting Mission - When this creature enters the battle zone, choose one:
+- One of your other creatures gets "Powerful Attack +3000" until the end of the turn.
+- Draw a card.</text>
     </card>
     <card>
       <name>Dagger Doll</name>
@@ -5647,7 +5657,9 @@ Jade Luster - Each of your other Nature creatures gets +1000 power.</text>
       <cmc>4</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+- Draw 2 cards.
+- You may choose one of your shields and put it into your hand. If you do, put a card from your hand into your shield zone face down as a new shield.</text>
     </card>
     <card>
       <name>Nimbus Scout</name>
@@ -6267,7 +6279,9 @@ Fierce Stance - While battling, this creature gets +3000 power.</text>
       <cmc>4</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+- Tap target enemy creature. It doesn't untap at the start of your opponent's next turn.
+- All your creatures get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)</text>
     </card>
     <card>
       <name>Sopan, Cyber Renegade</name>
@@ -8730,7 +8744,9 @@ Bold Defense - Whenever this creature blocks, it gets +2000 power until the end 
       <type>Creature - Chimera</type>
       <pt>40/40</pt>
       <tablerow>2</tablerow>
-      <text>Grafted Claws - When this creature enters the battle zone, choose one:</text>
+      <text>Grafted Claws - When this creature enters the battle zone, choose one:
+- Target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+- One of your creatures gets "Slayer" until the end of the turn. (When that creature loses a battle, banish the other creature.)</text>
     </card>
     <card>
       <name>Siege Dragon</name>
@@ -9484,7 +9500,9 @@ Double Breaker (This creature breaks 2 shields.)</text>
       <cmc>6</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+- Banish all enemy creatures that have "Blocker."
+- Each of your creatures can attack untapped creatures this turn as though they were tapped.</text>
     </card>
     <card>
       <name>Bloodbound Dragon</name>
@@ -10211,7 +10229,9 @@ Resurge - When this creature enters the battle zone, choose a creature in your d
       <cmc>6</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+- Banish target untapped enemy creature.
+- Choose up to 2 creatures in your discard pile and return them to your hand.</text>
     </card>
     <card>
       <name>Nivarex the Unquenchable</name>
@@ -10846,7 +10866,9 @@ Piercing Gaze - When this creature enters the battle zone, your opponent discard
       <cmc>6</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+- Put up to 2 cards from the top of your deck into your mana zone.
+- Choose up to 2 creatures in your mana zone and return them to your hand.</text>
     </card>
     <card>
       <name>Vile Reanimator</name>
@@ -12752,6 +12774,8 @@ Lava Breath - Whenever this creature attacks, banish target enemy creature that 
       <type>Spell</type>
       <tablerow>3</tablerow>
       <text>Choose one:
+● Put a creature named Eternal Haven from your hand into the battle zone.
+● Draw a card. Then you may put a non-evolution creature that is level 7 or less and has "Blocker" from your hand into the battle zone.
 </text>
     </card>
     <card>
@@ -12774,7 +12798,9 @@ Lava Breath - Whenever this creature attacks, banish target enemy creature that 
       <cmc>8</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+● Put a creature named King Tritonus from your hand into the battle zone.
+● Draw 3 cards.</text>
     </card>
     <card>
       <name>Master of the Graves</name>
@@ -13178,7 +13204,9 @@ Ancient Call - Whenever a card is put into your mana zone, reveal the top card o
       <cmc>9</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+● Put a creature named Almighty Colossus from your hand into the battle zone.
+● Choose one of your creatures. It gets +3000 power and battles target enemy creature.</text>
     </card>
     <card>
       <name>Mark of Infernus</name>
@@ -13188,7 +13216,9 @@ Ancient Call - Whenever a card is put into your mana zone, reveal the top card o
       <cmc>9</cmc>
       <type>Spell</type>
       <tablerow>3</tablerow>
-      <text>Choose one:</text>
+      <text>Choose one:
+● Put a creature named Infernus the Immolator from your hand into the battle zone.
+● Banish any number of target enemy creatures that have total power 5000 or less.</text>
     </card>
     <card>
       <name>Moorna the Vengeful</name>
